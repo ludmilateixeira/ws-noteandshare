@@ -4,7 +4,7 @@
 Caminho Github: https://github.com/ludmilateixeira/ws-noteandshare
 
 ## Visão Geral
-<p align="justify">Uma extensão do app prévio <a href="https://github.com/ludmilateixeira/app_sharedpreferences/">"To Buy and Share / Para Comprar e Compartilhar"</a>, este app possui as mesmas funcionalidades de seu anterior, porém possui novas atualizações: 
+<p align="justify">Uma extensão do app prévio <a href="https://github.com/ludmilateixeira/noteandsharedwithsql">"To Buy and Share / Para Comprar e Compartilhar"</a>, este app possui as mesmas funcionalidades de seu anterior, porém possui novas atualizações: 
 <br/>
 O app agora salva automaticamente (persiste) todo o conteúdo da lista de compras em um arquivo json, que é lido durante a inicialização do app. Ou seja, os itens da lista não são perdidos depois que o app é fechado.</p>
 <p align="justify">Possui a opção de escolha entre os temas Light e Dark para o app.</p>
