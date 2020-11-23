@@ -16,7 +16,7 @@ O app agora salva automaticamente (persiste) todo o conteúdo da lista de compra
 <li><b>Repository</b>: Contendo a classe Repository, onde ficam os métodos que envolvem o acesso direto ao banco de dados / armazenamento de dados (json na programação atual).</li>
 </ul> 
 O app possibilita a adição do item, com possibilidade de inserção do valor, da pessoa responsável pelo item e agora a quantidade, contudo, os campos não são obrigatórios, trazendo assim mais praticidade.
-<br/>
+<br/><br/>
 AH! Agora o aplicativo possui conexão com WEB SERVICES, um serviço que conecta diretamente com um site web (oficial) e retorna diversas mensagens ao decorrer da funcionalidade do aplicativo. Basta fechar o app e abrir novamente ou simplesmente apertar o refresh quando quiser!
 <br/>
 Até mais!
