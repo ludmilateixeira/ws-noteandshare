@@ -1,6 +1,7 @@
 # To Note and Share / Para Anotar e Compartilhar
-<p>Quarto desenvolvimento de um app em Flutter/Dart.</p>
-<p><b>Vídeo: <a href="https://youtu.be/jbYj6_hUGng">Clique aqui!</a></b></p>
+<p>Quinto desenvolvimento de um app em Flutter/Dart.</p>
+<p><b>Vídeo: <a href="">Clique aqui!</a></b></p>
+Caminho Github: https://github.com/ludmilateixeira/ws-noteandshare
 
 ## Visão Geral
 <p align="justify">Uma extensão do app prévio <a href="https://github.com/ludmilateixeira/app_sharedpreferences/">"To Buy and Share / Para Comprar e Compartilhar"</a>, este app possui as mesmas funcionalidades de seu anterior, porém possui novas atualizações: 
@@ -18,5 +19,5 @@ O app agora salva automaticamente (persiste) todo o conteúdo da lista de compra
 O app possibilita a adição do item, com possibilidade de inserção do valor, da pessoa responsável pelo item e agora a quantidade, contudo, os campos não são obrigatórios, trazendo assim mais praticidade.
 <br/><br/>
 AH! Agora o aplicativo possui conexão com WEB SERVICES, um serviço que conecta diretamente com um site web (oficial) e retorna diversas mensagens ao decorrer da funcionalidade do aplicativo. Basta fechar o app e abrir novamente ou simplesmente apertar o refresh quando quiser!
-<br/>
+<br/><br/>
 Até mais!
